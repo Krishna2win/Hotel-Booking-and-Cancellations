@@ -11,7 +11,6 @@ This project analyzes hotel booking data to predict cancellations, providing ins
 - [Results](#results)
 - [Future Improvements](#future-improvements)
 - [How to Use](#how-to-use)
-- [References](#references)
 
 ## Introduction
 Hotel cancellations present a challenge for revenue management and operational efficiency. This project uses machine learning to predict the likelihood of a booking being canceled, enabling proactive measures.
